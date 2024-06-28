@@ -13,5 +13,5 @@ Features:
     Product showcases 
   </li>
   <li>
-    Footer with quick links
+    Footer 
   </li></ul>
